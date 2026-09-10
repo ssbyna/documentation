@@ -101,6 +101,8 @@
 
 .. |KSV| replace:: Kaseyville
 
+.. |PTL| replace:: Panther Lake
+
 .. _project repo: https://github.intel.com/Intel-Slim-Bootloader/slimbootloader
 
 .. _documentation repo: https://github.intel.com/Intel-Slim-Bootloader/documentation
